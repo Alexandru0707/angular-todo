@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alexandru Adrian Cozma <alex_boys30@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Alexandru0707/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8"
+  }
+}
