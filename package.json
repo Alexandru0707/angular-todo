@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alexandru0707/angular-todo/issues"
   },
-  "homepage": "https://github.com/Alexandru0707/angular-todo#readme"
+  "homepage": "https://github.com/Alexandru0707/angular-todo#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
